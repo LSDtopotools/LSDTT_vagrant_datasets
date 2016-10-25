@@ -8,6 +8,7 @@
 read path: /LSDTopoTools/Topographic_projects/Test_data/
 write path: /LSDTopoTools/Topographic_projects/Test_data/
 read fname: Mandakini
+write fname: Mandakini
 channel heads fname: NULL
 
 # Parameter for filling the DEM
