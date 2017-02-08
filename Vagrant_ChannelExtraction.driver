@@ -7,8 +7,8 @@
 # IMPORTANT: You MUST make the write directory: the code will not work if it doens't exist. 
 read path: /LSDTopoTools/Topographic_projects/test_data
 write path: /LSDTopoTools/Topographic_projects/test_data
-read fname: indian_creek
-write fname: indian_creek
+read fname: gabilan
+write fname: gabilan
 channel heads fname: NULL
 
 # Parameter for filling the DEM
