@@ -1,0 +1,20 @@
+# Parameters for channel extraction
+# Comments are preceeded by the hash symbol
+# Documentation can be found here: 
+# TBA
+
+# These are parameters for the file i/o
+# IMPORTANT: You MUST make the write directory: the code will not work if it doens't exist. 
+read path: /LSDTopoTools/Topographic_projects/test_data
+write path: /LSDTopoTools/Topographic_projects/test_data
+read fname: indian_creek
+write fname: indian_creek
+channel heads fname: NULL
+
+# Parameter for filling the DEM
+min_slope_for_fill: 0.0001
+
+# Parameters for selecting channels and basins
+
+threshold_contributing_pixels: 500
+
