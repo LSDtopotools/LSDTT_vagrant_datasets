@@ -16,5 +16,11 @@ min_slope_for_fill: 0.0001
 
 # Parameters for selecting channels and basins
 
-threshold_contributing_pixels: 500
+# threshold_contributing_pixels: 2500
+print_area_threshold_channels: false
+print_wiener_channels: false
+print_pelletier_channels: false
+print_dreich_channels: true
 
+# write hillshade: true
+print_stream_order_raster: true
